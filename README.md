@@ -51,4 +51,4 @@ Table S4. Summary of virus-encoded auxiliary metabolism genes (AMGs) identified 
 
 ### Source data
 
-
+This file provides the raw data for the plotted figures of the present study.
