@@ -67,4 +67,5 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 ### Source Data
 
 This file provides the raw data for the plotted figures of the present study.
+
 Note: Seven-year monitoring data of total phosphorus (2015~2021) in the MR-SNWDC is available in Source data of Figs. 2a, 2b, S5.
