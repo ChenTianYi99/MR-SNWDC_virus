@@ -4,6 +4,7 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 
 
 
+
 ### Supplementary Information
 
   #### 1. Supplemental Methods
@@ -68,4 +69,4 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 
 This file provides the raw data for the plotted figures of the present study.
 
-Note: Seven-year monitoring data of total phosphorus (2015~2021) in the MR-SNWDC is available in Source data of Figs. 2a, 2b, S5.
+Note: Seven-year phosphorus-related monitoring data (2015~2021) in the MR-SNWDC is available in Source data of Figs. 2a, 2b, S5.
