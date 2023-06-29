@@ -1,4 +1,4 @@
-# Virus–pathogen interactions make water quality safer in the world’s largest water diversion canal
+# Virus–pathogen interactions improve water quality along a water diversion canal continuum
 
 Bacterial pathogens and viruses have been the leading causes of global waterborne diseases. Therefore, enormous efforts have been made to reduce health or ecological risks from them using various treatment technologies and management strategies. However, the new challenge is that are there any alternative strategies by use of natural forces to improve water quality economically? In the present work, we provided a novel strategy of water "self-purification" from the perspective of virus-pathogen interactions under extreme phosphorous constraints in the world's longest water diversion canal. Our study revealed the repressed environmental fitness of bacterial pathogens, the amplified viral predation effects, and the corresponding pathogen recessions under low phosphorous, which highlighted the potential significance of water self-purification associated with virus-pathogen interactions in reducing health risks from waterborne pathogens.
 
@@ -37,7 +37,7 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 
     Fig. S12. Dynamics and P-associated functions of bacteria with high-quality genomes (completeness > 90%, contamination < 5%), as well as their relationships with viruses. 
 
-    Fig. S13. Changes in average copy number of functional genes involved in carbohydrate, energy, nitrogen, sulfur, nucleotide metabolism along the canal in autumn and spring.
+    Fig. S13. Changes in average copy number of functional genes involved in carbohydrate, energy, nitrogen, sulfur, and nucleotide metabolism along the canal in autumn and spring.
 
     Fig. S14. Correlation between abundances of viruses and their hosts for each phylum in autumn and spring.
 
@@ -69,4 +69,4 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 
 This file provides the raw data for the plotted figures of the present study.
 
-Note: Seven-year phosphorus-related monitoring data (2015~2021) in the MR-SNWDC is available in Source data of Figs. 2a, 2b, S5.
+Note: Seven-year phosphorus-related monitoring data (2015~2021) in the MR-SNWDC is available in Source data of Figs. 2A, 2B, and S5.
