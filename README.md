@@ -1,4 +1,4 @@
-# Virus–pathogen interactions improve water quality along a water diversion canal continuum
+# Virus–pathogen interactions improve water quality along the Middle Route of the South-to-North Water Diversion Canal
 
 Bacterial pathogens and viruses have been the leading causes of global waterborne diseases. Therefore, enormous efforts have been made to reduce health or ecological risks from them using various treatment technologies and management strategies. However, the new challenge is that are there any alternative strategies by use of natural forces to improve water quality economically? In the present work, we provided a novel strategy of water "self-purification" from the perspective of virus-pathogen interactions under extreme phosphorous constraints in the world's longest water diversion canal. Our study revealed the repressed environmental fitness of bacterial pathogens, the amplified viral predation effects, and the corresponding pathogen recessions under low phosphorous, which highlighted the potential significance of water self-purification associated with virus-pathogen interactions in reducing health risks from waterborne pathogens.
 
