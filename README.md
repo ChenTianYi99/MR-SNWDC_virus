@@ -51,7 +51,7 @@ Bacterial pathogens and viruses have been the leading causes of global waterborn
 
   #### 4. Supplemental Tables
 
-    Table S1. Sequencing depth and region classification for each of the 64 samples in autumn and spring.
+    Table S1. Sequencing data quantity and region classification for each of the 64 samples in autumn and spring.
 
     Table S2. The number and average length of vOTUs within different quality levels in autumn and spring.
 
